@@ -2,7 +2,7 @@
 
 ### A "hello world" blockchain built with the Cosmos-SDK
 
-[Ready? Start Here](/tutorial/00-intro.md)
+!["Greetings Cosmonauts"](./space.png)
 
 Hellochain is a short and simple introduction to building
 application-specific blockchains with Cosmos. This repo contains both the
@@ -12,6 +12,8 @@ The first half "Simple App" assembles a super basic blockchain and the second
 half, "Custom Module" implements some custom application functionality on top
 of the chain. To get the full overview of what building with the Cosmos SDK
 involves, complete both sections.
+
+[Ready? Start Here](/tutorial/00-intro.md)
 
 ### Requirements
 
