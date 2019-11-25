@@ -1,3 +1,5 @@
+## **WARNING**: This repo is deprecated in favor of the Tutorials repo [here](https://github.com/cosmos/sdk-application-tutorials)
+---
 # HelloChain
 
 ### A "hello world" blockchain built with the Cosmos-SDK
